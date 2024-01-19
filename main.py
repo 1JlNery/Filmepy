@@ -19,7 +19,7 @@ def search_movie_by_title(title):
     else:
         print("Nenhum filme encontrado.")
 
-# loop para enqunato não escrever exit continuar perguntano
+# loop para enqunato não escrever exit continuar perguntando
 if __name__ == "__main__":
     while True:
         movie_title = input("Digite o título do filme (ou 'exit' para sair): ")
