@@ -1,7 +1,7 @@
 import requests
 
 def search_movie_by_title(title):
-    api_key = "6e102eba951365af73de56ccc3d6d93a" 
+    api_key "Sua API KEY aqui" 
     base_url = "https://api.themoviedb.org/3/search/movie"
     
     params = {
