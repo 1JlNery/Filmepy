@@ -1,5 +1,8 @@
-## Filme
+# Filme
 
--- Esse programa tem como o objetivo de treinar a utilização de uma API
+### Descrição do projeto 
+O Catálogo de Filmes é um projeto que tem como objetivo um melhor entendimento da utilização de uma API
 
--- Além de treinar criações de funções, parametros, condicionais e loop
+### Tecnologias Utilizadas
+- API de Filmes (The Movie Database - TMDB)
+- Python
